@@ -1,38 +1,3 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>uxuistock-star | Portfolio</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="icon" href="https://avatars.githubusercontent.com/u/00000000?v=4" />
-</head>
-<body class="bg-gradient-to-b from-slate-900 via-slate-800 to-slate-900 text-slate-100 min-h-screen flex flex-col items-center px-6">
-
-  <!-- Profil Kartı -->
-  <section class="text-center mt-16 max-w-3xl">
-    <img src="https://avatars.githubusercontent.com/u/00000000?v=4" 
-         alt="Profil Fotoğrafı" 
-         class="w-32 h-32 mx-auto rounded-full shadow-[0_4px_24px_#38bdf8]" />
-    <h1 class="text-4xl font-extrabold mt-6 text-sky-400">
-      Merhaba, Ben <span class="text-sky-300">uxuistock-star</span> 👋
-    </h1>
-    <p class="text-slate-400 text-lg mt-2">
-      Frontend & UI/UX Developer · Açık Kaynak Gönüllüsü · Tasarım Tutkunu
-    </p>
-
-    <div class="flex justify-center mt-6 space-x-4">
-      <a href="mailto:mail@adresiniz.com">
-        <img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" class="hover:scale-105 transition" />
-      </a>
-      <a href="https://linkedin.com/in/uxuistock-star">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="hover:scale-105 transition" />
-      </a>
-      <a href="https://twitter.com/uxuistock-star">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" class="hover:scale-105 transition" />
-      </a>
-    </div>
-  </section>
 
   <!-- Hakkımda -->
   <section class="mt-16 w-full max-w-3xl">
